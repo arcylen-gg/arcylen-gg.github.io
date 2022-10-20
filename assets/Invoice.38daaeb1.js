@@ -1,0 +1,1 @@
+import{_ as s,o as c,j as o,i as e}from"./index.79bf3bdf.js";const t={},a={class:"q-page-container"},n=e("div",{class:"page-element home print"},[e("div",{class:"container-section"},[e("div",{class:"row each-row"},[e("div",{class:"col-12"}," test ")])])],-1),i=[n];function r(_,d){return c(),o("div",a,i)}const p=s(t,[["render",r]]);export{p as default};
